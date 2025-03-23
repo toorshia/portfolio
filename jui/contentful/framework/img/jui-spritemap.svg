@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- test -->
+  <symbol id="test" viewBox="0 0 32 32">
+    <path d="M32,32H0V0h32V32z" />
+  </symbol>
+
+  <!-- external url -->
+  <symbol id="external_url" viewBox="0 0 32 32">
+    <title>external url</title>
+    <polygon points="18.184,9.979 22.128,13.953 28.649,7.372 32,10.825 31.997,0.222 28.684,0.222 21.396,0.222 24.712,3.483 "/>
+    <polygon points="22.222,26 5.778,26 5.778,10 14.104,10 20.558,3.333 0,3.333 0,31.778 28,31.778 28,11.373 22.222,18.173 "/>
+  </symbol>
+
+</svg>

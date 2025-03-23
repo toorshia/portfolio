@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Prototype - Contentful</title>
+  <meta name="description" content="">
+  <meta name="author" content="Bojan Djuricic | pindjur[at]gmail[dot]com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="format-detection" content="telephone=no">
+
+  <link rel="shortcut icon" href="resources/img/favicons/favicon32x32.png" type="image/png">
+  <link rel="apple-touch-icon" href="resources/img/favicons/apple_icon57x57.png" type="image/png">
+  <link rel="apple-touch-icon" href="resources/img/favicons/apple_icon72x72.png" type="image/png">
+  <link rel="apple-touch-icon" href="resources/img/favicons/apple_icon114x114.png" type="image/png">
+  <meta name="application-name" content="&nbsp;" />
+
+  <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+  <div class="jui hidden">
+    <div class="popup"></div>
+    <div class="panel">
+      <img width="169" height="88" src="framework/img/tour-hotspots.gif" />
+      <p>Once inside prototype, click anywhere on screen to reveal hotspots</p>
+      <button id="popup-dismiss">OK</button>
+      <button id="popup-noshow">Don't show anymore</button>
+    </div>
+    <div class="paging"></div>
+    <div class="nav-left">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+        <path d="M7.438,16l15.73,15.76c0.32,0.32,0.836,0.32,1.157,0c0.316-0.32,0.316-0.84-0.004-1.16L9.758,16L24.321,1.4 c0.32-0.32,0.32-0.84,0.004-1.16c-0.32-0.32-0.837-0.32-1.157,0L7.438,16z"/>
+      </svg>
+    </div>
+    <div class="nav-right">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+        <path d="M8.832,0.24c-0.32-0.32-0.837-0.32-1.157,0C7.358,0.561,7.358,1.08,7.679,1.4L22.242,16L7.679,30.6 c-0.32,0.32-0.32,0.84-0.004,1.16c0.321,0.32,0.837,0.32,1.157,0L24.562,16L8.832,0.24z"/>
+      </svg>
+    </div>
+    <menu class="menu"></menu>
+  </div>
+
+  <div class="main_wrapper"></div>
+  <script src="app.js"></script>
+</body>
+
+</html>
