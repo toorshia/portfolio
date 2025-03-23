@@ -1,0 +1,1114 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"obj"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"stack",
+				"stackpanel"
+			],
+			[
+				"header",
+				"header-height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"data",
+				"data-entry"
+			],
+			[
+				"ge",
+				"getAttribute"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"dura",
+				"durationOut"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sys",
+				"sysmes_animated"
+			],
+			[
+				"c",
+				"config"
+			],
+			[
+				"right-side",
+				"right-sidebar-width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sta",
+				"stackpanel"
+			],
+			[
+				"ctf-",
+				"ctf-stackpanel"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"left",
+				"left-sidebar-width"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"hide",
+				"hideSpinner"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"hede",
+				"header-height"
+			],
+			[
+				"comp",
+				"compObjects"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"cus",
+				"customSectors"
+			],
+			[
+				"u",
+				"u_config"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"inne",
+				"inner-shadow"
+			],
+			[
+				"w",
+				"webserver"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"ic",
+				"icon-size"
+			],
+			[
+				"not",
+				"notification-avatar"
+			],
+			[
+				"menu",
+				"menu-open"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"overla",
+				"overlay-display"
+			],
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"FR",
+				"FR-phone-menu"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"media",
+				"media-phone"
+			],
+			[
+				"6px",
+				"6px"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"men",
+				"menu-links"
+			],
+			[
+				"fuc",
+				"functionName"
+			],
+			[
+				"exc",
+				"exc_js"
+			],
+			[
+				"inc",
+				"inc_app"
+			],
+			[
+				"dis",
+				"dist-clean"
+			],
+			[
+				"clea",
+				"dist-clean"
+			],
+			[
+				"watc",
+				"watch-html"
+			],
+			[
+				"view",
+				"viewObjects"
+			],
+			[
+				"func",
+				"functionName"
+			],
+			[
+				"controlle",
+				"controllers"
+			],
+			[
+				"function",
+				"functionName"
+			],
+			[
+				"btn-prima",
+				"btn-primary-blue-color"
+			],
+			[
+				"btn-prim",
+				"btn-primary-blue-color"
+			],
+			[
+				"btn-primary",
+				"btn-primary-blue"
+			],
+			[
+				"step",
+				"steps-mobile"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"mrg",
+				"margin-bottom"
+			],
+			[
+				"la",
+				"landing"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"paddin",
+				"padding-horizontal"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"tabe",
+				"table-cell"
+			],
+			[
+				"cop",
+				"compObjects"
+			],
+			[
+				"mem",
+				"mem_dom"
+			],
+			[
+				"ui",
+				"ui_view"
+			],
+			[
+				"views",
+				"viewsObjects"
+			],
+			[
+				"prefere",
+				"preferences-advanced"
+			],
+			[
+				"prefe",
+				"preferences-gauge_1"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"next",
+				"next_index"
+			],
+			[
+				"state",
+				"state_name"
+			],
+			[
+				"tile",
+				"tile-unlocked"
+			],
+			[
+				"ti",
+				"tile"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"scope",
+				"scopeValue"
+			],
+			[
+				"scop",
+				"scopeValue"
+			],
+			[
+				"sc",
+				"scopeZero"
+			],
+			[
+				"str",
+				"stroke-width"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"ques",
+				"question-container"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"disa",
+				"disabled-color"
+			],
+			[
+				"icon",
+				"icon-arrow"
+			],
+			[
+				"btn-defa",
+				"btn-default-color"
+			],
+			[
+				"activ",
+				"active-color"
+			],
+			[
+				"btn-link",
+				"btn-link-disabled-color"
+			],
+			[
+				"btn-var",
+				"button-variant"
+			],
+			[
+				"link",
+				"link-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"c-se",
+				"c-section	Section Comment"
+			],
+			[
+				"c-",
+				"c-basic	Basic Comment"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"roboto",
+				"robotolight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"3px",
+				"36px"
+			],
+			[
+				"show",
+				"show_state"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"curre",
+				"currentValue"
+			],
+			[
+				"val",
+				"value"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/+DJURA+/Dropbox/Public/PROJECTS/tempano.com"
+	],
+	"file_history":
+	[
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/justgage.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/1i1su3/readme.md",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples/counter.html",
+		"/+DJURA+/Temporary/up.txt",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples/pointer.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples/reverse.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/README.md",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples/reverse-indicator.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples/indicator.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  StakUp (justgage)/justgage.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/.jsbeautifyrc",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples/defaults.html",
+		"/Volumes/DiffMerge 4.2.1.1013 intel stable/Extras/diffmerge.sh",
+		"/usr/bin/diff",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/User/FileDiffs.sublime-settings",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/justgage.sublime-project",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/TODO.txt",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/entries.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/less/core/vars.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/_components/header/header.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/entries.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/guide-to-france.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/_components/header/header.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/less/core/mixins.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/img/janko_jovanovic.jpg",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/img/playboy.svg",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/less/core/forms.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/eiffel-tower.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/_components/header/header.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/search-results.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/search-results.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/dummy-ul.htm",
+		"/Users/toorshia/Desktop/Contentful-Design/djura.sketch",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/app.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/app.css",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/guide-to-paris.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/less/styles.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/search-results.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/routes.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/img/ctf-icons.svg",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/media-eiffel-tower.htm",
+		"/Users/toorshia/Desktop/ctf-icons.svg",
+		"/Users/toorshia/Desktop/back.svg",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/.jsbeautifyrc",
+		"/Users/toorshia/Desktop/tree.svg",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/entry/entry.htm",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/framework/js/jquery.sysmes.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/framework/js/jquery.spin.js",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/toorshia/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/framework/js/jquery.hotspot.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/gulpfile.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/framework/main.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/img/ctf-content-tree.svg",
+		"/Users/toorshia/Desktop/close.svg",
+		"/Users/toorshia/Desktop/drag.svg",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree/content-tree.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree/content-tree.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree/content-tree.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/framework/js/jquery.closestdescendant.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/resources/less/core/icons.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/TESTS/inside.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/justGage/TESTS/targets.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app/src/views/entry-stacking/_components/content-tree/dummy-ul.htm",
+		"/Users/toorshia/Desktop/group.svg",
+		"/private/etc/hosts",
+		"/Volumes/ftp.justgage.com/toorshia.com/index.html",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/_components/main-navigation/main-nav.htm",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_01.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/_components/preferences-question-placeholder.htm",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences-01.html",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/_components/preferences-advanced.htm",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/_components/preferences-card.htm",
+		"/+DJURA+/Projects/jui-airline/src/views/foh/common/nav-bar-proto.html",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/_components/preferences-question-templates.htm",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/_components/preferences-gauge.htm",
+		"/+DJURA+/Projects/jui-airline/src/app.html",
+		"/+DJURA+/Projects/jui-airline/src/resources/lib/svgage.js",
+		"/+DJURA+/Projects/jui-airline/src/framework/main.js",
+		"/+DJURA+/Projects/jui-airline/src/views/foh/_components/nav-bar/nav-bar.less",
+		"/+DJURA+/Projects/jui-airline/src/views/misc/misc_routes.js",
+		"/+DJURA+/Projects/jui-airline/src/views/misc/ui-kit/ui-kit.html",
+		"/+DJURA+/Projects/jui-airline/src/views/foh/common/nav-bar-01.html",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_02.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_03.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_04.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_05.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_06.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_06_b.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_07.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_08.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_09.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_10.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/preferences/preferences_11.js",
+		"/+DJURA+/Projects/jui-airline/src/views/foh/_components/nav-bar/nav-bar.htm",
+		"/+DJURA+/Projects/jui-airline/src/views/misc/start/start.html",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/myr-routes.js",
+		"/+DJURA+/Projects/jui-airline/src/views/foh/foh-routes.js",
+		"/+DJURA+/Projects/jui-airline/src/views/myr/_components/front-end-specific/shared-classes.less",
+		"/+DJURA+/Projects/jui-airline/src/resources/less/core/vars.less",
+		"/+DJURA+/Projects/jui-airline/src/resources/less/styles.less",
+		"/+DJURA+/Projects/jui-airline/src/resources/img/spritemap.svg",
+		"/+DJURA+/Projects/jui-airline/gulpfile.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/framework/less/jui.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/app.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/s2/s2.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/s3/s3.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/framework/js/jquery.hotspot.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/framework/main.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/gulpfile.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/urls.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/home/home.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/framework/config.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/home.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/components/c1.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/components/c1.htm",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/app.html",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/s1/s1.less",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/components/c1.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/s1.js",
+		"/+DJURA+/Dropbox/Public/PROJECTS/2015-10 DaFED#37/demo/src/views/s1.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-08  Contentful/app",
+			"/+DJURA+/Projects/jui-ryanair",
+			"/+DJURA+/Dropbox/Public/PROJECTS/justGage/+GIT+/examples",
+			"/+DJURA+/Dropbox/Public/PROJECTS/justGage/download/justgage-1.1.0/examples",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/views/foh",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/views/trips",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/views/myr",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources/less/core",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/views/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources/less/core",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/html",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources/less",
+			"",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/views",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/views",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair.com-ui/src/resources",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/resources",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/views",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/resources/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/resources/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/src/views",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/client/src/views",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/client/src/views/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/client/src/resources/lib",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/client/src/resources/",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-prototype/client/src/resources/less",
+			"/+DJURA+/Dropbox/Public/PROJECTS/2015-02  RyanAir/apps/ryanair-jquery/client/src/resources/less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animation",
+			"raiff",
+			"bank of",
+			"color",
+			"human",
+			"obj.kv",
+			"pki",
+			"pki - ",
+			"ndl",
+			"kvLookup",
+			"update",
+			"title",
+			"refresh",
+			"stackpanel",
+			"btn-icon",
+			"btn-tree",
+			"user",
+			"img",
+			"cubic",
+			"titlebar",
+			"left-sidebar",
+			"left/side",
+			"data-sysmes",
+			"id=",
+			"id",
+			"contentful",
+			"attrib",
+			"getAtt",
+			"raiff",
+			"list_tit",
+			"hover",
+			"title",
+			"content",
+			"id=",
+			"h1",
+			"status",
+			".ref",
+			".status",
+			"status",
+			"raiff",
+			"form-2",
+			"title",
+			"asset",
+			"titlebar",
+			".btn-tree",
+			"btn-tree",
+			"search",
+			"message",
+			"switch",
+			"sysmes",
+			"switch",
+			"sysmes",
+			"list",
+			"empty",
+			"intent",
+			"empty",
+			"intent",
+			"generic",
+			"formconte",
+			"right-sideba",
+			"img",
+			"transition",
+			"drop-shadow",
+			" <",
+			"toggle",
+			"stackpanel",
+			"z-index",
+			"#",
+			"entry",
+			"sidebar",
+			"entry-place",
+			".entry",
+			"entry-place",
+			"not-allow",
+			"[id]",
+			"id",
+			"extend",
+			"sidebar",
+			"left sidebar",
+			"left-sidebar",
+			"sidebar",
+			"transform",
+			"fill-rule=\"evenodd\"",
+			"fill-rule=\"even-odd\"",
+			"fill-rule",
+			"transform",
+			"3",
+			"shadow",
+			"unwrap",
+			"component",
+			"strip",
+			"$('.ctf-content-tree').",
+			"entry-1",
+			"hotspot",
+			"server",
+			"selectpicker",
+			"mok",
+			"mock",
+			"mok-click",
+			"mok",
+			"mok-click",
+			"hotspot",
+			"myRyanair",
+			"request",
+			"myRyanair",
+			"logo",
+			"hotspot",
+			"loadCompo",
+			"showSpinner",
+			"hideSpinne",
+			"home",
+			"routes",
+			"tab",
+			"clearfix",
+			"transform",
+			"logo",
+			"drop",
+			"dotime",
+			"form",
+			"email.php",
+			"git",
+			"github",
+			".overlay",
+			"rotate",
+			"transi",
+			"darken",
+			"jui-row-icons",
+			"&:extend"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"tree.",
+			"tree",
+			"myPortal",
+			".roboto-400",
+			".roboto-700",
+			".roboto-400",
+			"main_wrapper",
+			"u_config.value",
+			"",
+			"../justgage.js",
+			"kvLookup",
+			"self",
+			"this",
+			"framework/js/",
+			"retrieve",
+			"Manage trip",
+			"Plan trip",
+			"<li><a href=\"javascript:void(0)\">Plan trip</a></li>",
+			"<li><a href=\"javascript:void(0)\">Manage trip</a></li>",
+			"Plan trip</a",
+			"Manage trip",
+			"<span class=\"ico-flag ie\"></span>",
+			"\"javascript:void(0);\"",
+			"\"javascript:void(0);'",
+			"\"javascript:vodi(0);",
+			"resources/",
+			"xlink:href=\"/resources/img/",
+			"laptop",
+			"myr",
+			"&:extend(.r400);",
+			"&:extend(.r700);",
+			"views/myryanair",
+			"",
+			"+resources/img/spritemap.svg",
+			"",
+			"question-container",
+			"",
+			"companion",
+			"h3>",
+			"Start preferences",
+			"Continue preferences",
+			"Edit preferences",
+			"html/components/",
+			"html/",
+			"logic/utilities/",
+			"logic/utilities",
+			"html/",
+			"logic",
+			"preferences-list",
+			"views/partials/preferences/preferences",
+			"<div class=\"track\"></div> <!-- temp -->",
+			"<component id=\"preferences-gauge\"></component>",
+			"@ryn-soft-grey",
+			"@ryn-light-blue",
+			"@ryn-medium-blue",
+			"@ryn-blue",
+			"@ryn-yellow",
+			"@ryn-bright-blue",
+			"h3>",
+			"<div class=\"gauge\"></div>",
+			"btn-plain",
+			"btn-primary-yellow",
+			"@brand-blue-light;",
+			" btn-default",
+			"",
+			"@gray-darker,",
+			"@gray-darker",
+			"@gray-darker;",
+			"@gray-darker",
+			"@brand-blue",
+			"@brand-yellow",
+			"@brand-yellow;",
+			"@brand-blue;",
+			"my-profile-card",
+			"my-companion-card",
+			"btn-action",
+			"btn-plain",
+			"",
+			"type=\"button\"",
+			"@link",
+			"@emblue;",
+			"@highlightblue",
+			"url('@{fnt}/",
+			"@titleblue",
+			"name",
+			"id",
+			"row-splits",
+			"mok-partial",
+			"views",
+			"yellow",
+			"mok-",
+			"data-click"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "justgage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

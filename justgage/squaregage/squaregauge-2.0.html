@@ -1,0 +1,171 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Square Gauge</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <style>
+      body {
+        font-family: "Arial";
+      }
+
+      .container {
+        margin: 50px auto 20px auto;
+        text-align: center;
+      }
+
+      .controls {
+        text-align: center;
+      }
+
+      #g1, #g2, #g3, #g4, #g5, #g6 {
+        width: 105px;
+        height: 105px;
+        margin: 10px;
+        display: inline-block;
+      }
+
+      #g7 {
+        width: 450px;
+        height: 450px;
+        margin: 10px;
+        display: inline-block;
+      }
+
+      .btn {
+        margin:  0 5px 0 5px;
+      }
+    </style>
+
+    <script src="res/js/jquery-1.7.2.min.js"></script>
+    <script src="res/js/raphael.2.1.0.min.js"></script>
+    <script src="res/js/squaregauge-2.0.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        function getRandomInt (min, max) {
+          return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        var g1 = new SquareGauge({
+          id : "g1",
+          color : "#ee2325",
+          title : "OPTIMISATION",
+          icon: {
+            src: "res/img/optimisation.png",
+            xpos: 74
+          },
+          score : 100
+        });
+
+        var g2 = new SquareGauge({
+          id : "g2",
+          color : "#fec20f",
+          title : "VALUE",
+          icon : "res/img/value.png",
+          score : 100
+        });
+
+        var g3 = new SquareGauge({
+          id : "g3",
+          color : "#40b977",
+          title : "REACH",
+          icon : "res/img/reach.png",
+          score : 100
+        });
+
+        var g4 = new SquareGauge({
+          id : "g4",
+          color : "#008d80",
+          title : "ACTIVITY",
+          icon : "res/img/activity.png",
+          score : 100
+        });
+
+        var g5 = new SquareGauge({
+          id : "g5",
+          color : "#0090d6",
+          title : "QUERY",
+          icon : "res/img/query.png",
+          score : 100
+        });
+
+        var g6 = new SquareGauge({
+          id : "g6",
+          color : "#a1a3a6",
+          title : {
+            text: "OVERALL",
+            font : {
+              weight : "bold"
+            }
+          },
+          score : {
+            text : 100,
+            font : {
+              weight : "bold"
+            }
+          }
+        });
+
+        var g7 = new SquareGauge({
+          id : "g7",
+          // width: 450,
+          // height: 450,
+          combined : true,
+          label : ["OPTIMISATION", "VALUE", "REACH", "ACTIVITY", "QUERY"],
+          title : "OVERALL SCORE",
+          score : [100, 100, 100, 100, 100, 100]
+        });
+
+        $('#Brandom').bind('click', function() {
+          g1.refresh(getRandomInt(0, 100));
+          g2.refresh(getRandomInt(0, 100));
+          g3.refresh(getRandomInt(0, 100));
+          g4.refresh(getRandomInt(0, 100));
+          g5.refresh(getRandomInt(0, 100));
+          g6.refresh(getRandomInt(0, 100));
+          g7.refresh([getRandomInt(0, 100), getRandomInt(0, 100), getRandomInt(0, 100), getRandomInt(0, 100), getRandomInt(0, 100), getRandomInt(0, 100)]);
+          return false;
+        });
+        $('#Bempty').bind('click', function() {
+          g1.refresh(0);
+          g2.refresh(0);
+          g3.refresh(0);
+          g4.refresh(0);
+          g5.refresh(0);
+          g6.refresh(0);
+          g7.refresh([0, 0, 0, 0, 0, 0]);
+          return false;
+        });
+        $('#Bfull').bind('click', function() {
+          g1.refresh(100);
+          g2.refresh(100);
+          g3.refresh(100);
+          g4.refresh(100);
+          g5.refresh(100);
+          g6.refresh(100);
+          g7.refresh([100, 100, 100, 100, 100, 100]);
+          return false;
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="g1"></div>
+      <div id="g2"></div>
+      <div id="g3"></div>
+      <div id="g4"></div>
+      <div id="g5"></div>
+      <div id="g6"></div>
+    </div>
+    <div class="container">
+      <div id="g7"></div>
+    </div>
+     <div class="controls">
+    <input type="button" class="btn" id="Brandom" value="Random"/>
+    <input type="button" class="btn" id="Bempty" value="   0   "/>
+    <input type="button" class="btn" id="Bfull" value="  100  "/>
+    </div>
+  </body>
+</html>
